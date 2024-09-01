@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ZCoder",
+    "desc": "A platform that enables users to organize, share, and discuss coding problems, enhancing collaborative learning.",
+    "image": "Zcoder.png",
+    "category": "MERN STACK",
+    "links": {
+      "view": "https://redirect-to-zcoder.vercel.app",
+      "code": "https://github.com/rajusharma852000/ZCoder"
+    }
+  },
+  {
+    "name": "Fiverr Clone",
+    "desc": "A platform connecting freelancers with clients, offering services, order management, and secure payments.",
+    "image": "Fiverr_Clone.png",
+    "category": "MERN STACK",
+    "links": {
+      "view": "https://redirect-to-fiverrclone.vercel.app",
+      "code": "https://github.com/rajusharma852000/Fiverr_Clone"
+    }
+  },
+  {
+    "name": "Parking Management System",
+    "desc": "A centralized system which keeps track of parking spot availability and manage vehicle registrations",
+    "image": "Parking_Management_System.png",
+    "category": "Pa",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/rajusharma852000/Parking_Management_System"
+    }
+  }
+]
