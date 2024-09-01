@@ -2,7 +2,7 @@
   {
     "name": "ZCoder",
     "desc": "A platform that enables users to organize, share, and discuss coding problems, enhancing collaborative learning.",
-    "image": "Zcoder.png",
+    "image": "Zcoder1.png",
     "category": "MERN STACK",
     "links": {
       "view": "https://redirect-to-zcoder.vercel.app",
